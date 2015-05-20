@@ -8,3 +8,7 @@ require 'sinatra'
 get '/italian' do
    "Ciao!"
  end
+
+get '/party' do
+    "Fantastic!"
+end
